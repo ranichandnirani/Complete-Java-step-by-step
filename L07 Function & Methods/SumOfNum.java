@@ -13,6 +13,6 @@ public class SumOfNum {
         int b = sc.nextInt();
 
         int sum = calculateSum(a, b);
-        System.out.println("Sum of two numbers" + sum);
+        System.out.println("Sum of two numbers:" + sum);
     }
 }
