@@ -11,15 +11,10 @@ Think of it like:-
 Types of Time Complexity (Simple)
 
 O(1) → Constant time (super fast)
-
 O(log n) → Logarithmic (pretty fast)
-
 O(n) → Linear (normal speed)
-
 O(n log n) → Faster than quadratic
-
 O(n²) → Slow
-
 O(2ⁿ), O(n!) → Very slow
 
 Difference Between Time & Space Complexity:-
@@ -33,10 +28,8 @@ What are Big O, Omega, Theta? (Very Easy)
 
 1. Big O (O):- Shows worst-case performance.
 Example:- Traffic jam situation.
-
 2. Omega (Ω):- Shows best-case performance.
 Example:- Empty road.
-
 3. Theta (Θ):- Shows average case.
 Example:- Normal traffic.
 
