@@ -1,0 +1,50 @@
+
+What is Time & Space Complexity?
+
+Time Complexity:- How much time an algorithm takes as input size increases.(Fast code vs slow code)
+Space Complexity:- How much memory (RAM) an algorithm uses.
+
+Think of it like:-
+                    Time = how fast you cook.
+                    Space = how many utensils you use.
+
+Types of Time Complexity (Simple)
+
+O(1) → Constant time (super fast)
+
+O(log n) → Logarithmic (pretty fast)
+
+O(n) → Linear (normal speed)
+
+O(n log n) → Faster than quadratic
+
+O(n²) → Slow
+
+O(2ⁿ), O(n!) → Very slow
+
+Difference Between Time & Space Complexity:-
+
+Time Complexity	            Space Complexity
+Measures speed	            Measures memory
+Focus: execution time	    Focus: RAM usage
+Affects performance	        Affects memory usage
+
+What are Big O, Omega, Theta? (Very Easy)
+
+1. Big O (O):- Shows worst-case performance.
+Example:- Traffic jam situation.
+
+2. Omega (Ω):- Shows best-case performance.
+Example:- Empty road.
+
+3. Theta (Θ):- Shows average case.
+Example:- Normal traffic.
+
+Super Short Summary (5 lines):-
+
+Time = speed, Space = memory.
+Big O = worst case.
+Omega = best case.
+Theta = average case.
+
+
