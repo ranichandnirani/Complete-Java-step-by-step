@@ -2,7 +2,7 @@ import java.util.Scanner;
 // 9. Write a function that calculates the Greatest Common Divisor of 2 numbers. (BONUS)
 
 public class DivisionOfNum {
-   public static void main(String args[]) {
+   public static void main(String[] args) {
        Scanner sc = new Scanner(System.in);
        int n1 = sc.nextInt();
        int n2 = sc.nextInt();
