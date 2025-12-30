@@ -6,9 +6,14 @@ public class DefineArr {
         mark[1] = 98; //chem
         mark[2] = 95;  //eng
         
-       System.out.println(mark[0]); 
-       System.out.println(mark[1]); 
-       System.out.println(mark[2]); 
+      //  System.out.println(mark[0]); 
+      //  System.out.println(mark[1]); 
+      //  System.out.println(mark[2]); 
+
+      // Using loop
+      for(int i=0; i<3; i++) 
+         System.out.println(mark[i]);
+      
    }
    
 }
