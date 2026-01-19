@@ -11,7 +11,7 @@ class Dog extends Animal {
     }
 }
 
-public class SingleLevel{
+public class Single{
     public static void main(String[] args) {
         Dog d = new Dog();
 
