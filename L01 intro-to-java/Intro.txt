@@ -1,0 +1,28 @@
+
+                                        Introduction to Java
+
+---> Java is a high-level, object-oriented, and platform-independent programming language developed by Sun Microsystems (now  Oracle). It is widely used for building secure, scalable, and reliable applications.
+
+---> Java follows the principle “Write Once, Run Anywhere” (WORA), meaning Java programs can run on any system that has the Java Virtual Machine (JVM).
+
+
+Key Features:-
+            1. Platform Independent –   Runs on any OS using JVM.
+            2. Object-Oriented –    Uses classes, objects, inheritance, polymorphism.
+            3. Secure –     Strong memory management and security features.
+            4. Robust –     Handles errors efficiently.
+            5. Multithreaded –  Supports concurrent execution.
+            6. Portable –   Architecture-neutral bytecode.
+
+
+Applications of Java:-
+                    1. Web Applications
+                    2. Android Development
+                    3. Desktop Applications
+                    4. Enterprise Systems
+                    5. Cloud-Based Applications
+
+
+Why Learn Java?
+                Java is in-demand, beginner-friendly, and widely used in industry and academics, making it an excellent choice for students and developers.
+

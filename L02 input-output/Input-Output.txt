@@ -1,0 +1,33 @@
+
+                                        Input and Output in Java
+
+Input and Output (I/O) in Java allow a program to take data from the user and display results on the screen.
+
+Input in Java:
+                Input is used to receive data during program execution.
+
+
+Common Input Methods:
+                    1. Scanner class
+                    2. BufferedReader class
+
+
+
+Output in Java:
+                Output is used to display data to the user.
+
+
+Common Output Methods:
+                    1. System.out.print()
+                    2. System.out.println()
+                    3. System.out.printf()
+
+
+Example:
+        System.out.println("Hello, Java");
+
+
+Standard I/O Streams:
+                    --> System.in → Standard Input
+                    --> System.out → Standard Output
+                    --> System.err → Error Output

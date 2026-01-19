@@ -1,0 +1,36 @@
+
+
+                                                Iteration vs Recursion
+Iteration:
+            Iteration is the process of repeating a set of instructions using loops like for, while, or do-while.
+
+Key Points:-
+            1. Uses loops.
+            2. Condition-controlled repetition
+            3. Faster and memory-efficient
+            4. Easy to debug
+
+Best used when:
+                The number of repetitions is known or performance matters.
+
+Recursion:
+            Recursion is a technique where a function calls itself to solve a problem by breaking it into smaller subproblems.
+
+Key Points:-
+            1. Function calls itself
+            2. Must have a base case
+            3. Uses more memory (stack)
+            4. Code can be cleaner for complex problems
+
+Best used when:
+                The problem is naturally recursive (trees, graphs, divide & conquer).
+
+Comparison:-
+
+            Feature	            Iteration	            Recursion
+
+        1.    Uses	            Loops	                Function calls
+        2.    Speed	            Faster	                Slower
+        3.    Memory	        Less	                More
+        4.    Complexity	    Simple	                Conceptual
+        5.    Risk	            Low	                    Stack overflow
