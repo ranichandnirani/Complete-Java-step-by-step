@@ -1,0 +1,58 @@
+
+                                        Conditional Statements in Java
+
+Conditional statements are used to make decisions in a Java program.
+They allow the program to execute different code blocks based on conditions.
+
+
+1. if Statement:
+                Executes a block of code only if the condition is true.
+
+Syntax:
+            if (condition) {
+                // code
+            }
+
+2. if–else Statement:
+                    Executes one block if the condition is true, otherwise executes another block.
+
+Syntax:
+        if (condition) {
+            // true block
+        } else {
+            // false block
+        }
+
+3. else–if Ladder:
+                Used to test multiple conditions.
+
+Syntax:
+        if (condition1) {
+            // code
+        } else if (condition2) {
+            // code
+        } else {
+            // default code
+        }
+
+4. Nested if:
+            An if statement inside another if statement.
+
+Use:
+    When one condition depends on another.
+
+5. switch Statement:
+                    Executes one case from multiple choices based on a value.
+
+Syntax:
+        switch (expression) {
+            case value1:
+            break;
+
+            case value2:
+            break;
+
+            default:
+        }
+
+Conditional statements control the flow of execution in Java programs and help in decision-making.
