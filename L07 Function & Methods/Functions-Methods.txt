@@ -1,0 +1,46 @@
+
+                                        Functions and Methods in Java
+
+In Java, a function is called a method.
+A method is a block of code that performs a specific task and is executed when called.
+
+Method Definition:
+                A method is defined inside a class.
+Syntax:
+        returnType methodName(parameters) {
+            // code
+        }
+
+Types of Methods:
+
+1. Predefined Methods:
+                    Methods already available in Java libraries.
+Example: 
+        1. println() 
+        2. sqrt()
+        3. length()
+
+2. User-Defined Methods:
+                        Methods created by the programmer.
+Example:
+        void display() {
+            System.out.println("Hello");
+        }
+
+Method Parameters:
+                1. Parameters – values passed to a method
+                2. Return type – value returned by a method using return
+
+Method Calling:
+                A method is called using the object name or directly if it is static.
+
+Example:
+        display();
+
+Advantages of Methods:
+                    1. Code reusability
+                    2. Better readability
+                    3. Easy debugging
+                    4. Modular programming
+
+Methods help in organizing code into smaller, manageable parts and improve program structure.

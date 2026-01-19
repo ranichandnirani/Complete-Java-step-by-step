@@ -1,0 +1,37 @@
+
+                                                    Arrays in Java
+
+An array is a data structure used to store multiple values of the same data type in a single variable.
+
+Array Declaration:
+                    datatype[] arrayName;
+
+Array Initialization:
+                    int[] a = {10, 20, 30};
+
+Accessing Array Elements:
+                        Array elements are accessed using index numbers (starting from 0).
+                        a[0]
+
+Types of Arrays:
+1. One-Dimensional Array:
+                        Stores elements in a single row.
+                        int[] a = new int[5];
+
+2. Two-Dimensional Array:
+                        Stores data in rows and columns.
+                        int[][] a = new int[3][3];
+
+Length of Array:
+                Use .length to find array size.
+                a.length
+
+Advantages of Arrays:
+                    1. Fast access using index
+                    2. Stores multiple values efficiently
+
+Limitations of Arrays:
+                    1. Fixed size
+                    2. Same data type only
+
+Arrays are useful for handling large amounts of data in Java programs.

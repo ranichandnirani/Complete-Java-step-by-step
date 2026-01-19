@@ -1,0 +1,25 @@
+
+                                                Sorting in Java
+
+Sorting is the process of arranging data in a specific order – ascending or descending.
+
+Types of Sorting:
+1. Bubble Sort:
+                Repeatedly swaps adjacent elements if they are in the wrong order.
+
+Simple but inefficient for large arrays.
+
+2. Selection Sort:
+                Finds the minimum element and places it at the beginning.
+
+3. Insertion Sort:
+                Builds the sorted array one element at a time by inserting elements at the correct position.
+
+
+Other Sorting Algorithms:
+                        Merge Sort – Divide and conquer, efficient for large arrays
+                        Quick Sort – Partition-based, fast average-case performance
+
+Sorting organizes data and improves search efficiency.
+Bubble, Selection, and Insertion are easy to implement;
+Merge and Quick Sort are used for large datasets.

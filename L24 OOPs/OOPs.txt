@@ -1,0 +1,38 @@
+
+                                        Object-Oriented Programming (OOPs) in Java
+
+OOPs is a programming paradigm based on objects and classes.
+Java is an object-oriented language, which helps in organizing code for reusability, flexibility, and modularity.
+
+1. Class:
+        Class is a user-defined data type which defines its properties and its functions. Class is the only logical representation of the data. For example, Human being is a class. The body parts of a human being are its properties, and the actions performed by the body parts are known as functions. The class does not occupy any memory space till the time an object is instantiated. 
+
+2. Object:
+        Object is a run-time entity. It is an instance of the class. An object can represent a person, place or any other item. An object can operate on both data members and member functions. 
+
+3. Four Main Principles of OOPs:
+(a) Encapsulation:
+                Wrapping data (variables) and methods together.
+                Use of private variables and public getters/setters.
+
+(b) Inheritance:
+                One class acquires properties of another.
+                Keywords: extends
+
+(c) Polymorphism:
+                Ability to take multiple forms.
+
+Types:
+    Compile-time (Method Overloading)
+    Run-time (Method Overriding)
+
+(d) Abstraction:
+                Hiding implementation details and showing only functionality.
+                Achieved by abstract classes and interfaces.
+
+4. Additional Concepts:
+                        Constructor: Special method to initialize objects
+                        this keyword: Refers to the current object
+                        super keyword: Refers to parent class members
+
+OOPs makes Java programs modular, reusable, and easier to maintain, which is ideal for large applications.

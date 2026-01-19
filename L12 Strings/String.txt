@@ -1,0 +1,32 @@
+
+                                            String in Java
+
+A String is a sequence of characters used to store and manipulate text in Java.
+In Java, strings are objects of the String class.
+
+String Declaration:
+                    String name;
+
+String Initialization:
+                    String s = "Java";
+
+String Immutability:
+                    Strings in Java are immutable, meaning their values cannot be changed once created.
+
+Common String Methods:
+                    1. length() – returns string length
+                    2. toUpperCase() – converts to uppercase
+                    3. toLowerCase() – converts to lowercase
+                    4. charAt() – returns character at index
+                    5. equals() – compares strings
+                    6. substring() – extracts part of string
+
+String Concatenation:
+                    Joining strings using + operator.
+                    String s = "Java" + " Programming";
+
+String Comparison:
+                == compares references
+                equals() compares content
+
+Strings are widely used in Java for handling and processing text data.

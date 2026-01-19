@@ -1,0 +1,51 @@
+
+                                                Operators in Java
+
+Operators are symbols used to perform operations on variables and values.
+
+Types of Operators:
+1. Arithmetic Operators:
+                        Used for mathematical calculations.
+                        + - * / %
+
+2. Relational Operators:
+                        Used to compare two values.
+                        == != > < >= <=
+
+3. Logical Operators:
+                    Used to combine conditions.
+                    && || !
+
+4. Assignment Operators:
+                        Used to assign values.
+                        = += -= *= /=
+
+5. Unary Operators:
+                Operate on a single operand.
+                ++ -- + - !
+
+6. Bitwise Operators:
+                Operate on binary values.
+                & | ^ ~ << >>
+
+Operator Precedence:
+                Determines the order of execution of operators in an expression.
+
+Binary Numbers:
+            Binary numbers are number systems that use only two digits: 0 and 1.
+            Computers use binary numbers to store and process data.
+
+Binary to Decimal Conversion:
+Example:
+        1010₂ = 10₁₀
+
+Decimal to Binary Conversion:
+Example:
+        10₁₀ = 1010₂
+
+Binary Operators in Java:
+                        Bitwise operators work directly on binary data.
+Example:
+        5 & 3 = 1
+
+Operators perform operations, while binary numbers form the foundation of computer processing.

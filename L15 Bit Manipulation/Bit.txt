@@ -1,0 +1,35 @@
+
+                                            Bit Manipulation in Java
+
+Bit manipulation is the process of operating directly on binary digits (bits) using bitwise operators.
+It is used for fast and memory-efficient operations.
+
+Bitwise Operators:
+                    Operator	    Name	                    Description
+
+                    1.&	            AND	                        Sets bit to 1 if both bits are 1                    
+                    2.`	            `	                        OR                  
+                    3.^	            XOR	                        Sets bit to 1 if bits are different                 
+                    4.~	            NOT	                        Inverts all bits                    
+                    5.<<	        Left Shift	                Shifts bits to the left                 
+                    6.>>	        Right Shift	                Shifts bits to the right
+
+Common Bit Manipulation Operations:
+1. Check if a bit is set:
+                        (n & (1 << i)) != 0
+
+2. Set a bit:
+            n = n | (1 << i);
+
+3. Clear a bit:
+            n = n & ~(1 << i);
+
+4. Toggle a bit:
+            n = n ^ (1 << i);
+
+Advantages:
+        1. Faster execution
+        2. Efficient memory usage
+        3. Used in low-level programming
+
+Bit manipulation allows efficient control of data at the binary level and is widely used in performance-critical applications.
