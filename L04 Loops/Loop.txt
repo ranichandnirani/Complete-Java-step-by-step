@@ -1,0 +1,32 @@
+
+                                                Loops in Java
+
+Loops are used to execute a block of code repeatedly until a given condition is met.
+
+1. for Loop:
+            Used when the number of iterations is known.
+Syntax:
+        for (initialization; condition; update) {
+            // code
+        }
+
+2. while Loop:
+            Executes code as long as the condition is true.
+Syntax:
+        while (condition) {
+            // code
+        }
+
+3. do–while Loop:
+                Executes the loop at least once, even if the condition is false.
+Syntax:
+        do {
+            // code
+        } while (condition);
+
+Loop Control Statements:
+                        1. break – exits the loop
+                        2. continue – skips the current iteration
+
+Loops reduce code repetition and improve program efficiency.
+for loop is most commonly used in Java.
