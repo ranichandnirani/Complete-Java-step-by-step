@@ -20,6 +20,6 @@ public class TowerOfHanoi {
     }
     public static void main(String[] args) {
         int n = 4;
-        towerOfHanoi(n, "A", "B", "C");
+        towerOfHanoi(n, "S", "H", "D");
     }
 }
