@@ -5,8 +5,7 @@
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=1A6FED&height=220&section=header&text=Complete%20Java%20Step%20by%20Step&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=From%20Zero%20to%20Hero%20%F0%9F%9A%80&descAlignY=58&descSize=18)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1A6FED&center=true&vCenter=true&width=700&lines=Learning+Java+from+Scratch+%E2%98%95;OOPs+%7C+Arrays+%7C+Strings+%7C+Recursion+%F0%9F%94%81;127+Commits+and+Growing+%F0%9F%93%88)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1A6FED&center=true&vCenter=true&width=700&lines=Learning+Java+from+Scratch+%E2%98%95;Data+Structures+%26+Algorithms+in+Java+%F0%9F%A7%A0;OOPs+%7C+Arrays+%7C+Strings+%7C+Recursion+%F0%9F%94%81;127+Commits+and+Growing+%F0%9F%93%88)
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -164,6 +163,7 @@ java filename
 │   └── Complete OOP concepts
 ├── 📁 L25 Exception Handling & Multithreading 
 
+```
 ---
 
 ## 💡 Key Learning Highlights
@@ -524,7 +524,7 @@ Need help or have questions?
 
 ### 🎉 Course Completed Successfully! 🎉
 
-**Made with ❤️ and ☕ by Chandni Rani**
+**Made with ❤️ and ☕ by Cha**
 
 _Happy Coding! Keep Learning, Keep Growing!_ 💻✨
 
