@@ -2,9 +2,14 @@
 
 <div align="center">
 
+
+![banner](https://capsule-render.vercel.app/api?type=waving&color=1A6FED&height=220&section=header&text=Complete%20Java%20Step%20by%20Step&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=From%20Zero%20to%20Hero%20%F0%9F%9A%80&descAlignY=58&descSize=18)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1A6FED&center=true&vCenter=true&width=700&lines=Learning+Java+from+Scratch+%E2%98%95;Data+Structures+%26+Algorithms+in+Java+%F0%9F%A7%A0;OOPs+%7C+Arrays+%7C+Strings+%7C+Recursion+%F0%9F%94%81;127+Commits+and+Growing+%F0%9F%93%88)
+
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-COMPLETED-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
 ### 🎓 Complete Java Programming Course
 
@@ -34,52 +39,52 @@ This repository contains a **complete Java programming course** with hands-on co
 
 ### 🔰 Core Fundamentals
 
-| Lesson  | Topic                        | Content              | Status |
-| ------- | ---------------------------- | -------------------- | ------ |
-| **L01** | Introduction to Java         | Setup & First Program| ✅     |
-| **L02** | Input & Output               | Scanner, I/O streams | ✅     |
-| **L03** | Conditional Statements       | if-else, switch-case | ✅     |
-| **L04** | Loops                        | for, while, do-while | ✅     |
+| Lesson            | Topic                                    | Content                        | Status |
+| ----------------- | ---------------------------------------- | ------------------------------ | ------ |
+| **L01**           | Introduction to Java                     | Setup & First Program          |   ✅   |
+| **L02**           | Input & Output                           | Scanner, I/O streams           |   ✅   |
+| **L03**           | Conditional Statements                   | if-else, switch-case           |   ✅   |
+| **L04**           | Loops                                    | for, while, do-while           |   ✅   |
 
 ### 🎨 Pattern Programming
 
-| Lesson  | Topic                     | Patterns   | Status |
-| ------- | ------------------------- | ---------- | ------ |
-| **L05** | Best Patterns             | 10+ designs| ✅     |
-| **L06** | Advanced Patterns         | Complex    | ✅     |
+| Lesson            | Topic                                    | Patterns                       | Status |
+| -------           | ---------------------------------------- | ------------------------------ | ------ |
+| **L05**           | Best Patterns                            | 10+ designs                    | ✅     |
+| **L06**           | Advanced Patterns                        | Complex                        | ✅     |
 
 ### ⚙️ Functions & Analysis
 
-| Lesson  | Topic                      | Content            | Status |
-| ------- | -------------------------- | ------------------ | ------ |
-| **L07** | Functions & Methods        | Parameters, Return | ✅     |
-| **L08** | Functions Practice         | 10+ problems       | ✅     |
-| **L09** | Time & Space Complexity    | Big-O notation     | ✅     |
+| Lesson            | Topic                                    | Content                        | Status |
+| ----------------- | ---------------------------------------- | ------------------------------ | ------ |
+| **L07**           | Functions & Methods                      | Parameters, Return             | ✅     |
+| **L08**           | Functions Practice                       | 10+ problems                   | ✅     |
+| **L09**           | Time & Space Complexity                  | Big-O notation                 | ✅     |
 
 ### 📊 Data Structures
 
-| Lesson  | Topic              | Files                    | Status |
-| ------- | ------------------ | ------------------------ | ------ |
-| **L10** | Arrays (1D)        | Traversal, Operations    | ✅     |
-| **L11** | 2D Arrays          | Matrix, Multi-dimensional| ✅     |
-| **L12** | Strings            | Manipulation, Methods    | ✅     |
-| **L13** | StringBuilder      | Efficient operations     | ✅     |
+| Lesson            | Topic                                    | Files                          | Status |
+| ----------------- | ---------------------------------------- | -----------------------------  | ------ |
+| **L10**           | Arrays (1D)                              | Traversal, Operations          | ✅     |
+| **L11**           | 2D Arrays                                | Matrix, Multi-dimensional      | ✅     |
+| **L12**           | Strings                                  | Manipulation, Methods          | ✅     |
+| **L13**           | StringBuilder                            | Efficient operations           | ✅     |
 
 ### 🔧 Advanced Concepts
 
-| Lesson  | Topic                           | Content                      | Status |
-| ------- | ------------------------------- | ---------------------------- | ------ |
-| **L14** | Operators & Binary Number System| Bitwise operators            | ✅     |
-| **L15** | Bit Manipulation                | Set, Clear, Toggle, Update   | ✅     |
-| **L16** | Sorting Algorithms              | Bubble, Selection, Insertion | ✅     |
-| **L17** | Recursion                       | Basic recursive problems     | ✅     |
-| **L18** | Recursion 2                     | Advanced & Backtracking      | ✅     |
+| Lesson            | Topic                                 | Content                           | Status |
+| ----------------- | ------------------------------------- | --------------------------------- | ------ |
+| **L14**           | Operators & Binary Number System      | Bitwise operators                 | ✅     |
+| **L15**           | Bit Manipulation                      | Set, Clear, Toggle, Update        | ✅     |
+| **L16**           | Sorting Algorithms                    | Bubble, Selection, Insertion      | ✅     |
+| **L17**           | Recursion                             | Basic recursive problems          | ✅     |
+| **L18**           | Recursion 2                           | Advanced & Backtracking           | ✅     |
 
 ### 🏗️ Object-Oriented Programming
 
-| Lesson  | Topic        | Content                                                           | Status |
-| ------- | ------------ | ----------------------------------------------------------------- | ------ |
-| **L24** | OOPs         | Classes, Objects, Inheritance, Polymorphism, Encapsulation, Abstraction | ✅     |
+| Lesson            | Topic                             | Content                                                                 | Status |
+| ----------------- | --------------------------------- | ----------------------------------------------------------------------- | ------ |
+| **L24**           | OOPs                              | Classes, Objects, Inheritance, Polymorphism, Encapsulation, Abstraction | ✅     |
 
 ---
 
@@ -468,14 +473,6 @@ After completing this course, you will be able to:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - feel free to use for learning and teaching!
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-
----
-
 ## 🌟 Show Your Support
 
 If this repository helped you learn Java:
@@ -493,6 +490,8 @@ If this repository helped you learn Java:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranichandnirani)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandni-rani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_chan_dni/)
+
 
 </div>
 
@@ -522,4 +521,5 @@ _Happy Coding! Keep Learning, Keep Growing!_ 💻✨
 
 **⭐ If this helped you, please star this repository! ⭐**
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=1A6FED&height=100&section=footer)
 </div>
