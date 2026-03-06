@@ -160,8 +160,8 @@ java filename
 ├── 📁 L18 Recursion2
 │   └── Advanced recursion
 └── 📁 L24 OOPs
-    └── Complete OOP concepts
-```
+│   └── Complete OOP concepts
+├── 📁 L25 Exception Handling & Multithreading 
 
 ---
 
@@ -215,7 +215,8 @@ graph LR
     E --> F[🔧 L14-L16<br/>Advanced]
     F --> G[🔁 L17-L18<br/>Recursion]
     G --> H[🏗️ L24<br/>OOP]
-    H --> I[🎉 Complete!]
+    H --> I[🏗️ L25<br/>Exception Handling]
+    I --> J[🎉 Complete!]
 ```
 
 ---
@@ -254,7 +255,7 @@ graph LR
 </details>
 
 <details>
-<summary>🔁 <b>L04: Loops</b></summary>
+<summary>🔁<b>L04: Loops</b></summary>
 
 - for loop
 - while loop
@@ -376,6 +377,17 @@ graph LR
 - Interfaces
 - Static keyword
 - Final keyword
+</details>
+
+<details>
+<summary> 📖 <b>L25: Exception Handling & Multithreading</b></summary>
+
+- Try
+- Catch
+- Finally
+- Throw
+- Throws
+- Thread
 </details>
 
 ---
@@ -511,7 +523,7 @@ Need help or have questions?
 
 ### 🎉 Course Completed Successfully! 🎉
 
-**Made with ❤️ and ☕ for Java Learners**
+**Made with ❤️ and ☕ by Chandni Rani**
 
 _Happy Coding! Keep Learning, Keep Growing!_ 💻✨
 
