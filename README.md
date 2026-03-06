@@ -524,7 +524,7 @@ Need help or have questions?
 
 ### 🎉 Course Completed Successfully! 🎉
 
-**Made with ❤️ and ☕ by Cha**
+**Made with ❤️ and ☕ by Chandni Rani**
 
 _Happy Coding! Keep Learning, Keep Growing!_ 💻✨
 
