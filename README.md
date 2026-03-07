@@ -1,11 +1,8 @@
-# ✅ Complete Java Step by Step - FINISHED! 🎉
+![banner](https://capsule-render.vercel.app/api?type=waving&color=1A6FED&height=180&section=header)
 
 <div align="center">
 
-
-![banner](https://capsule-render.vercel.app/api?type=waving&color=1A6FED&height=220&section=header&text=Complete%20Java%20Step%20by%20Step&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=From%20Zero%20to%20Hero%20%F0%9F%9A%80&descAlignY=58&descSize=18)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1A6FED&center=true&vCenter=true&width=700&lines=Learning+Java+from+Scratch+%E2%98%95;Data+Structures+%26+Algorithms+in+Java+%F0%9F%A7%A0;OOPs+%7C+Arrays+%7C+Strings+%7C+Recursion+%F0%9F%94%81;127+Commits+and+Growing+%F0%9F%93%88)
+# ✅ Complete Java Step by Step - FINISHED! 🎉
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -28,7 +25,6 @@ This repository contains a **complete Java programming course** with hands-on co
 **Perfect for:**
 
 - 🎯 Absolute beginners starting their Java journey
-- 📚 Students learning Data Structures & Algorithms
 - 💡 Developers mastering Object-Oriented Programming
 - 🚀 Anyone preparing for coding interviews
 - 📖 Quick reference for Java concepts
@@ -85,6 +81,7 @@ This repository contains a **complete Java programming course** with hands-on co
 | Lesson            | Topic                             | Content                                                                 | Status |
 | ----------------- | --------------------------------- | ----------------------------------------------------------------------- | ------ |
 | **L24**           | OOPs                              | Classes, Objects, Inheritance, Polymorphism, Encapsulation, Abstraction | ✅     |
+| **L25**           | Exception Handling & Multithreading | Try, Catch, Finally, Throw, Throws, Thread  | ✅     |
 
 ---
 
@@ -162,7 +159,7 @@ java filename
 └── 📁 L24 OOPs
 │   └── Complete OOP concepts
 ├── 📁 L25 Exception Handling & Multithreading 
-
+    └── Complete Exception Handling & Multithreading concepts
 ```
 ---
 
@@ -215,8 +212,8 @@ graph LR
     D --> E[📊 L10-L13<br/>Data Structures]
     E --> F[🔧 L14-L16<br/>Advanced]
     F --> G[🔁 L17-L18<br/>Recursion]
-    G --> H[🏗️ L24<br/>OOP]
-    H --> I[🏗️ L25<br/>Exception Handling]
+    G --> H[🏗️ L24<br/>OOPs]
+    H --> I[🎯L25<br/>Exception Handling & MultiThreading]
     I --> J[🎉 Complete!]
 ```
 
@@ -256,7 +253,7 @@ graph LR
 </details>
 
 <details>
-<summary>🔁<b>L04: Loops</b></summary>
+<summary>🔁<b> L04: Loops</b></summary>
 
 - for loop
 - while loop
